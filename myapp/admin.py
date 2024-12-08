@@ -8,6 +8,6 @@ admin.site.register(Contact)
 
 
 
-admin.site.site_header = 'BLOGSPOT | ADMIN PANEL'
-admin.site.site_title = 'BLOGSPOT | BLOGGING WEBSITE'
-admin.site.index_title= 'BlogSpot Site Administration'
+admin.site.site_header = 'Varanasi Blog | ADMIN PANEL'
+admin.site.site_title = 'Varanasi Blog | BLOGGING WEBSITE'
+admin.site.index_title= 'VKJournal Site Administration'
